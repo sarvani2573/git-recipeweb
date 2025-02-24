@@ -1,0 +1,64 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(64, 79, 64);
+  color:white;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  margin: 0 15px;
+  transition: all 0.3s ease; 
+}
+
+nav ul li:hover {
+  color: #fff; 
+  background-color: #333; 
+  cursor: pointer; 
+}
+
+header {
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+footer {
+  margin-top: 40px;
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+footer p {
+  margin: 0;
+}
+
+.item-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 10px;
+  text-align: left;
+}
+
+input, select {
+  margin: 10px;
+  padding: 10px;
+}
+
+input[type="text"] {
+  width: 200px;
+}
+
+select {
+  padding: 5px;
+}

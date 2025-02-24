@@ -1,0 +1,9 @@
+[
+    { "id": 1, "name": "Apple", "price": 120,  "image": "img1.jpg","category": "Fruits" },
+    { "id": 2, "name": "Banana", "price": 60,  "image": "img2.jpg","category": "Fruits" },
+    { "id": 3, "name": "Carrot", "price": 80, "image": "img3.jpg", "category": "Vegetables" },
+    { "id": 4, "name": "Orange", "price": 100,  "image": "img4.jpg","category": "Fruits" },
+    { "id": 5, "name": "Broccoli", "price":200, "image": "img5.jpg", "category": "Vegetables" },
+    { "id": 6, "name": "Lettuce", "price": 250,  "image": "img6.jpg", "category": "Vegetables" }
+  ]
+  
